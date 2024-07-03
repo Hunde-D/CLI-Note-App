@@ -6,7 +6,6 @@ const readPackageJson = async () => {
     const pJsonPath = fileURLToPath(
       new URL("../package.json", import.meta.url)
     );
-    console.log(pJsonPath);
     const packageJson = JSON.parse(await fs.readFile(pJsonPath, "utf-8"));
     console.log(packageJson);
   } catch (e) {
@@ -23,4 +22,4 @@ const witeFile = async () => {
 };
 
 witeFile();
-// readPackageJson();
+readPackageJson();
