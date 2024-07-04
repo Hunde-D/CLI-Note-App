@@ -1,3 +1,39 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": ["-"],
+      "content": "note 1",
+      "id": 1720101539917
+    },
+    {
+      "tags": ["high", " serious"],
+      "content": "note 2",
+      "id": 1720101575761
+    },
+    {
+      "tags": ["work"],
+      "content": "note 3",
+      "id": 1720101598580
+    },
+    {
+      "tags": ["school"],
+      "content": "note 4",
+      "id": 1720101610705
+    },
+    {
+      "tags": ["school", "personal"],
+      "content": "note 5",
+      "id": 1720101633692
+    },
+    {
+      "tags": ["-"],
+      "content": "note 6",
+      "id": 1720101653388
+    },
+    {
+      "tags": ["personal"],
+      "content": "note 7",
+      "id": 1720101669819
+    }
+  ]
 }
